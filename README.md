@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-My name Even. Me go Central Campus. Me like programming.
+My name is Evan. I go to Central Campus.
